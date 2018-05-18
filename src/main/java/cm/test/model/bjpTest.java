@@ -12,7 +12,7 @@ import java.util.Date;
 
 
 @Entity
-@Table(name = "bjptest")
+@Table(name = "bjpTest")
 
 
 public class bjpTest {
